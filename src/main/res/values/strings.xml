@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Vicious Mockery</string>
+    <string name="generate_insult">Generate Insult</string>
+    <string name="add_words">Add Words</string>
+    <string name="new_text">New:</string>
+    <string name="submit">Submit</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete_word">Delete Custom Words</string>
+    <string name="remove_text">Remove:</string>
+    <string name="remove">Remove</string>
+    <string name="compliment">Compliment</string>
+    <string name="insult">Insult</string>
+    <string name="generate_compliment">Generate Compliment</string>
+    <string name="view_list">View List</string>
+    <string name="close">Close</string>
+    <string name="insults">Insults</string>
+    <string name="compliments">Compliments</string>
+    <string name="adjectives">Adjectives</string>
+    <string name="nouns">Nouns</string>
+
+    <string-array name="type_array">
+        <item>Adjective</item>
+        <item>Noun</item>
+    </string-array>
+
+</resources>
