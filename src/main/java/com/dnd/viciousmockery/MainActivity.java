@@ -188,7 +188,6 @@ public class MainActivity extends AppCompatActivity {
         _basicAdjInsultList.add("Good-for-nothing");
         _basicAdjInsultList.add("Wimpy");
         _basicAdjInsultList.add("Weak");
-        _basicAdjInsultList.add("Mother-fucking");
         DatabaseHelper helper = new DatabaseHelper(this);
         helper.fillBaseAdjectives(_basicAdjInsultList, false);
     }
@@ -275,7 +274,6 @@ public class MainActivity extends AppCompatActivity {
         _basicAdjComplimentList.add("Deadly");
         _basicAdjComplimentList.add("Highbrow");
         _basicAdjComplimentList.add("Magical");
-        _basicAdjComplimentList.add("Mother-fucking");
         DatabaseHelper helper = new DatabaseHelper(this);
         helper.fillBaseAdjectives(_basicAdjComplimentList, true);
     }
@@ -284,7 +282,6 @@ public class MainActivity extends AppCompatActivity {
         _basicNounComplimentList.add("work of art");
         _basicNounComplimentList.add("beast");
         _basicNounComplimentList.add("beauty");
-        _basicNounComplimentList.add("mother-fucker");
         _basicNounComplimentList.add("beast");
         _basicNounComplimentList.add("hunk");
         _basicNounComplimentList.add("soul");
@@ -353,8 +350,6 @@ public class MainActivity extends AppCompatActivity {
         _basicNounInsultList.add("oaf");
         _basicNounInsultList.add("goose");
         _basicNounInsultList.add("fool");
-        _basicNounInsultList.add("goat-fucker");
-        _basicNounInsultList.add("cock-sucker");
         _basicNounInsultList.add("child");
         _basicNounInsultList.add("dimwit");
         _basicNounInsultList.add("dunce");
@@ -400,9 +395,6 @@ public class MainActivity extends AppCompatActivity {
         _basicNounInsultList.add("abortion");
         _basicNounInsultList.add("fetus");
         _basicNounInsultList.add("chickenshit");
-        _basicNounInsultList.add("shithole");
-        _basicNounInsultList.add("fuckhead");
-        _basicNounInsultList.add("fuck-face");
         _basicNounInsultList.add("dope");
         _basicNounInsultList.add("slut");
         _basicNounInsultList.add("simpleton");
@@ -416,16 +408,9 @@ public class MainActivity extends AppCompatActivity {
         _basicNounInsultList.add("tumor");
         _basicNounInsultList.add("growth");
         _basicNounInsultList.add("cyst");
-        _basicNounInsultList.add("pile of excrement");
-        _basicNounInsultList.add("mound of horseshit");
-        _basicNounInsultList.add("cum puddle");
-        _basicNounInsultList.add("cum bubble");
         _basicNounInsultList.add("bungler");
         _basicNounInsultList.add("butterfingers");
-        _basicNounInsultList.add("poop licker");
-        _basicNounInsultList.add("spunk guzzler");
         _basicNounInsultList.add("mouth breather");
-        _basicNounInsultList.add("skank");
         _basicNounInsultList.add("baby");
         _basicNounInsultList.add("pumpkin");
         _basicNounInsultList.add("ball of dough");
@@ -444,18 +429,14 @@ public class MainActivity extends AppCompatActivity {
         _basicNounInsultList.add("baguette");
         _basicNounInsultList.add("bread stick");
         _basicNounInsultList.add("bag of cats");
-        _basicNounInsultList.add("bag of dicks");
         _basicNounInsultList.add("bag of socks");
         _basicNounInsultList.add("sock");
-        _basicNounInsultList.add("cum rag");
         _basicNounInsultList.add("slob");
         _basicNounInsultList.add("rat");
         _basicNounInsultList.add("rodent");
         _basicNounInsultList.add("scoundrel");
         _basicNounInsultList.add("egg");
         _basicNounInsultList.add("hamster");
-        _basicNounInsultList.add("lady-boy");
-        _basicNounInsultList.add("boy-lady");
         _basicNounInsultList.add("toddler");
         _basicNounInsultList.add("skunk");
         DatabaseHelper helper = new DatabaseHelper(this);
